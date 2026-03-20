@@ -1,2 +1,7 @@
 # Aarti
-A collection of C++ and DSA problems including arrays, strings, linked list, stack, queue, trees, and graphs for placement preparation.
+# C++ DSA Practice
+
+This repository contains my C++ solutions for Data Structures and Algorithms problems.
+
+## Topics Covered
+- Arrays
