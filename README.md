@@ -14,3 +14,4 @@ This repository contains my C++ solutions for Data Structures and Algorithms pro
 - Best Time To Buy And Sell
 - Kadane's Algorithm
 - Container With Most Water
+- Merge Sorted Array
